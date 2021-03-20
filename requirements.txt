@@ -9,7 +9,7 @@ ibm-cloud-sdk-core==1.5.1
 ibm-watson==4.3.0
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib==0.14.1
 lxml==4.5.0
 MarkupSafe==1.1.1
